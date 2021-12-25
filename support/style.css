@@ -1,0 +1,436 @@
+*{
+    color: black;
+    
+}
+.logo{
+    height: 23px;
+    margin-left:70px;
+    margin-top: 12px;
+    margin-right: 20px;
+
+
+}
+.nav a{
+    color: black;
+}
+
+.nav-item a{
+    font-size: 13px;
+    font-style: normal;
+    
+
+
+}
+.nav-item{
+    margin-top:6px;
+    padding-right:0px;
+    padding-left:0px;
+    
+}
+.nav-item-d{
+    height:23px;
+    border-left:2px solid black;
+    display: inline-block;
+    margin-top: 12px;
+}
+
+  
+
+
+.nav-item-support {
+    font-size: 18px;
+    margin-right:40px;
+    margin-top: 11px;
+    font-weight:500;
+    margin-left: 20px;
+}
+
+
+.nav-item-b{
+    border-radius:4px;
+    border: 1px solid black;
+    width:155px;
+    height:33px;
+    margin-top:11px;
+   
+}
+.nav-item-b a{
+    font-size:13px;
+    font-weight:600;
+    padding-top:5px;
+    padding-right:2px;
+    padding-left:8px;
+    
+}
+.nav-item-right a{
+    padding-left: 60px    ;
+    font-size:13px;
+    padding-top:15px;
+
+}
+
+.nav-item-support:hover{
+    text-decoration: underline;
+    color:black;
+}
+
+
+.search a{
+    font-size: 13px;
+    color: black;
+    text-decoration: none;
+    
+}
+.search{
+    padding-top: 11px;
+    padding-left:5px;
+}
+
+a:hover{
+    text-decoration:underline;
+    text-decoration-color: black;
+}
+.sign-up a{
+    font-size: 13px;
+    color: black;
+    text-decoration: none;
+    
+}
+.sign-up{
+    padding-top:6px;
+    padding-left:20px;
+}
+.icon{
+    height:40px
+}
+.bienvenue{
+    background-image: url("photo/Capture\ d’écran\ 2021-12-17\ 031534.png");
+    border: none;
+    padding-bottom:100px;
+    
+
+}
+.bienvenue h1{
+    text-align: center;
+    color: white;
+    padding-top:80px;
+}
+.bienvenue h3{
+    text-align: center;
+    color: white;
+    padding-top:30px;
+    padding-left:50px;
+}
+.btn2{
+    
+
+    display: inline-block;
+    background-color:transparent;
+    transition-duration: 0.4s;
+    transition:.3em ease ;
+    border:1px solid  white;
+    height:38px;
+    width:140px;
+    margin-left:30px;
+    
+
+    
+
+    
+}
+.btn:hover{
+    text-decoration: underline;;
+    text-decoration-color: white;
+}
+
+* {
+    box-sizing: border-box;
+  }
+
+  
+  /* Style the search field */
+  form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 80%;
+    background: #f1f1f1;
+    border:none;
+    width:700px;
+    margin-left:400px;
+    margin-top:35px;
+  }
+  
+  /* Style the submit button */
+  form.example button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background: #f1f1f1;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none; /* Prevent double borders */
+    cursor: pointer;
+    border:none;
+    width:50px;
+    margin-top:35px;
+  }
+  
+
+  
+  /* Clear floats */
+  form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+.contents-item-1 {
+    float: left;
+    padding-left: 250px;
+    padding-top: 30px;
+   
+    
+}
+.lien {
+   
+       
+        margin-right: 400px;
+        margin-left: 50px;
+}
+.lien a{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    word-spacing:3px;
+    padding-left:20px;
+    padding-top: 200px;
+    width: 300px;
+ 
+    
+}
+.main-content{
+    float: left;
+    line-height: 20px;
+}
+.main-content h6{
+    padding-top: 25px;
+    padding-left:50px;
+    padding-bottom: 30px;
+    
+}
+.main-content a{
+    text-decoration: none;
+    padding-left: 50px;
+    margin-bottom: 50px;
+    color:#047eb6 ;
+   
+   
+}
+.main h1{
+    padding-top:100px;
+    text-align: center;
+
+}
+a:hover{
+   
+    
+    text-decoration:underline solid #047eb6 1px;}
+
+.content{
+    float: left;
+
+}
+.content:hover a{
+    text-decoration:underline solid #047eb6 1px;
+}
+.s{
+    
+    background-color: #f2f2f2;
+    height:310px;
+    margin-top:350px;
+}
+
+.sty a:hover{
+    border: aqua;
+}
+.b{
+    float: left;
+}
+.it-1{
+    float: left;
+}
+.it-2{
+    float:left;
+}
+
+.it-3{
+    float: left;
+}
+.it-4{
+    float:left;
+}
+.groupe-1{
+    float: left;
+}
+.it-1 p{
+
+    font-size: 15px;
+}
+.it-1 h5{
+    font-size: 17px;
+    padding-bottom: 10px;
+}
+.it-2 p{
+    
+    font-size: 15px;
+
+}
+.it-2 h5{
+    font-size: 17px;
+    padding-bottom: 10px;
+}
+.it-3 p{
+    
+    font-size: 15px;
+}
+.it-3 h5{
+    font-size: 17px;
+    padding-bottom: 10px;
+}
+.it-4 p{
+    
+    font-size: 15px;
+}
+.it-4 h5{
+    font-size: 17px;
+    padding-bottom: 10px;
+}
+
+
+.options{
+    
+    background-color: #f2f2f2;
+    height:310px;
+    margin-top:520px;
+}      
+.options-item{
+    float: left;
+}
+.options-item h5{
+    font-size: 18px;
+    padding-left: 20px;
+}
+.options-item a{
+    
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
+a.options-item:hover{
+    text-decoration: underline;
+}
+.z{
+    float:left;
+    
+}
+.z h2{
+    padding-top: 100px;
+}
+.z h2{
+    padding-left:100px;
+    padding-bottom: 10px;
+    font-size: 35px;
+}
+.z p{
+    padding-left:100px;
+}
+.z a{
+    padding-left:100px;
+    font-size: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:#047eb6;
+    text-decoration: none;
+    color: white;
+    background-color: #047eb6;
+   padding: 14px 35px;
+   margin-left: 100px;
+}
+.z a:hover{ 
+    background-color: #046c9c ;
+    color: white;
+}
+.f{
+    float: left;
+}
+.bar{
+    background-color: #f2f2f2;
+    height:430px;
+    margin-top: 400px;
+}
+.bar-left a {
+    text-align: left;
+    padding:80px;
+}
+
+.f ul{
+    list-style: none;
+    font-size: 10px;
+}
+.f li{
+    padding:10px;
+    padding-left: 30px;
+}
+.f h6{
+    padding-top: 25px;
+    padding-left: 30px;
+}
+.f a{
+    padding-left: 30px;
+}
+.bar ul{
+    display: flex;
+    
+    align-items:center;
+    min-height:5vh;
+    
+   
+   
+}
+
+.bar{
+    padding-top:350px;
+}
+.bar a{
+    text-decoration: none;
+    color: black;
+    font-size: 10px;
+    padding-left:20px;
+    
+}
+.bar a:hover{
+    text-decoration: underline;
+    color: black;
+}
+.f a:hover{
+    text-decoration: underline;
+    color: black;
+}
+.f a{
+    color: black;
+}
+
+
+.bar-right a{
+    color: black;
+}
+
+
+
+
+    
+
+  
+
+
+
